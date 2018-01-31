@@ -6,8 +6,12 @@ user-friendly interface and data reliable solution were required.
 ## There are 2 interfaces
 1. Admin panel where You configure paths where is stored documents and e-mails and 
 where should they be copied to.
+
+![image](images/admin-interface.JPG)
+
 2. Client panel where you see the progress - displays what is currently being 
 copied and the remaining time also informs if you can use the Outlook.
+![image](images/client-interface.JPG)
 
 ## Dependencies
 Uses `robocopy` tool for the file copying.
