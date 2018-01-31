@@ -1,4 +1,5 @@
-# VB script for backing up documents and e-mail.
+# VB script for backing up documents and e-mail
+
 Was specially created for clients that were rarely in the office and their data
  needed to be backed-up to the local server. The task could not be scheduled so a 
 user-friendly interface and data reliable solution were required.
@@ -11,6 +12,7 @@ where should they be copied to.
 
 2. Client panel where you see the progress - displays what is currently being 
 copied and the remaining time also informs if you can use the Outlook.
+
 ![image](images/client-interface.JPG)
 
 ## Dependencies
