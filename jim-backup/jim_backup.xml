@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<settings>
+  <pc_name>4-7</pc_name>
+  <usr_name>cat</usr_name>
+  <email>
+    <folder_count>1</folder_count>
+    <log_path>\\192.168.1.100\Backup_JB\20100706\4-7\cat\jim_backup.log</log_path>
+    <folder_0>
+      <source>D:\Backup_JB\20100706\1-7\citi\mail1</source>
+      <destination>
+        <dest_beg>\\192.168.1.100\Backup_JB</dest_beg>
+        <dest_mid_path>\\192.168.1.100\Backup_JB\date.txt</dest_mid_path>
+        <dest_folder_name>mail1</dest_folder_name>
+      </destination>
+    </folder_0>
+  </email>
+  <docs>
+    <folder_count>2</folder_count>
+    <log_path>\\192.168.1.100\Backup_JB\20100706\4-7\cat\jim_backup.log</log_path>
+    <folder_0>
+      <source>D:\Backup_JB\20100706\1-7\citi\d2</source>
+      <destination>
+        <dest_beg>\\192.168.1.100\Backup_JB</dest_beg>
+        <dest_mid_path>\\192.168.1.100\Backup_JB\date.txt</dest_mid_path>
+        <dest_folder_name>docs1</dest_folder_name>
+      </destination>
+    </folder_0>
+    <folder_1>
+      <source>D:\Backup_JB\20100706\1-7\citi\d2</source>
+      <destination>
+        <dest_beg>\\192.168.1.100\Backup_JB</dest_beg>
+        <dest_mid_path>\\192.168.1.100\Backup_JB\date.txt</dest_mid_path>
+        <dest_folder_name>docs12</dest_folder_name>
+      </destination>
+    </folder_1>
+  </docs>
+</settings>

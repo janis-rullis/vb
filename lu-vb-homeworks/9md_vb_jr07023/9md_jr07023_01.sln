@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "9md_jr07023_01", "9md_jr07023_01\9md_jr07023_01.vbproj", "{27E99EBE-1CB2-4907-A0B9-9CBD607C2109}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "9md_jr07023_01_Setup", "9md_jr07023_01_Setup\9md_jr07023_01_Setup.vdproj", "{EC53ED52-82B5-45A5-AE60-7D06AFDDBAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E99EBE-1CB2-4907-A0B9-9CBD607C2109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E99EBE-1CB2-4907-A0B9-9CBD607C2109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E99EBE-1CB2-4907-A0B9-9CBD607C2109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E99EBE-1CB2-4907-A0B9-9CBD607C2109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC53ED52-82B5-45A5-AE60-7D06AFDDBAB1}.Debug|Any CPU.ActiveCfg = Debug
+		{EC53ED52-82B5-45A5-AE60-7D06AFDDBAB1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

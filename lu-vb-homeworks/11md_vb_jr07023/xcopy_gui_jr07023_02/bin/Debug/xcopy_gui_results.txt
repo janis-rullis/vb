@@ -1,0 +1,35 @@
+Microsoft Windows XP [Version 5.1.2600]
+(C) Copyright 1985-2001 Microsoft Corp.
+
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\xcopy_gui_jr07023_01\xcopy_gui_jr07023_01\bin\Debug>xcopy "C:\x1" "C:\x2\" /y
+C:\x1\11md-0.vbproj
+C:\x1\Form1.Designer.vb
+C:\x1\Form1.resx
+C:\x1\Form1.vb
+C:\x1\Form2.Designer.vb
+C:\x1\Form2.vb
+C:\x1\typedDataSet.Designer.vb
+C:\x1\typedDataSet.xsc
+C:\x1\typedDataSet.xsd
+C:\x1\typedDataSet.xss
+10 File(s) copied
+
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\xcopy_gui_jr07023_01\xcopy_gui_jr07023_01\bin\Debug>exit
+Microsoft Windows XP [Version 5.1.2600]
+(C) Copyright 1985-2001 Microsoft Corp.
+
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\xcopy_gui_jr07023_01\xcopy_gui_jr07023_01\bin\Debug>xcopy "C:\x1" "C:\x2\" /y
+C:\x1\11md-0.vbproj
+C:\x1\Form1.Designer.vb
+C:\x1\Form1.resx
+C:\x1\Form1.vb
+C:\x1\Form2.Designer.vb
+C:\x1\Form2.vb
+C:\x1\typedDataSet.Designer.vb
+C:\x1\typedDataSet.xsc
+C:\x1\typedDataSet.xsd
+C:\x1\typedDataSet.xss
+10 File(s) copied
+
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\xcopy_gui_jr07023_01\xcopy_gui_jr07023_01\bin\Debug>exit
+

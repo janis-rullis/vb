@@ -1,0 +1,10 @@
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\4md_vb_jr07023_05\4md_jr07023_01_vir-siev\obj\Debug\4md_jr07023_01_vir-siev.exe
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\4md_vb_jr07023_05\4md_jr07023_01_vir-siev\obj\Debug\4md_jr07023_01_vir-siev.xml
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\4md_vb_jr07023_05\4md_jr07023_01_vir-siev\obj\Debug\4md_jr07023_01_vir-siev.pdb
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\4md_vb_jr07023_05\4md_jr07023_01_vir-siev\bin\Debug\4md_jr07023_01_vir-siev.exe
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\4md_vb_jr07023_05\4md_jr07023_01_vir-siev\bin\Debug\4md_jr07023_01_vir-siev.pdb
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\4md_vb_jr07023_05\4md_jr07023_01_vir-siev\bin\Debug\4md_jr07023_01_vir-siev.xml
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\4md_vb_jr07023_05\4md_jr07023_01_vir-siev\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\4md_vb_jr07023_05\4md_jr07023_01_vir-siev\obj\Debug\_4md_jr07023_01_vir_siev.Form1.resources
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\4md_vb_jr07023_05\4md_jr07023_01_vir-siev\obj\Debug\_4md_jr07023_01_vir_siev.Resources.resources
+C:\Documents and Settings\Janis\My Documents\Visual Studio 2005\Projects\4md_vb_jr07023_05\4md_jr07023_01_vir-siev\obj\Debug\4md_jr07023_01_vir-siev.vbproj.GenerateResource.Cache
